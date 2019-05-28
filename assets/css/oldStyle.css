@@ -104,7 +104,7 @@ a:active {
 #bioPic {
     float: left;
     margin: 0px 15px 10px 0px;
-}
+    width: 25px;
 
 /* Porfolio Page */
 /* Gallery Boxes */

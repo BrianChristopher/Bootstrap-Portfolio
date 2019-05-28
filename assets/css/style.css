@@ -28,6 +28,7 @@ body {
 }
 #navbar {
     max-width: 960px;
+    padding: 0;
 }
 .navbar-brand {
     background-color: #4aaaa5;
@@ -37,13 +38,23 @@ body {
     align-content: right;
 }
 
-/* Border Styling */
-.border-top {
-    border-style: solid;
-    border-color: #4aaaa5;
-    width: 100%;
-}
 
 /* Main Container Styling */
+#mainContainer {
+    width 100%;
+    padding: 20px 0;
+}
+#mainContent {
+    max-width: 960px;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+/* About Me Styling */
+#bioPic {
+    margin: 0px 15px 10px 0px;
+    max-width: 200px;
+}
+
 
 
